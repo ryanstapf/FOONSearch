@@ -1,0 +1,175 @@
+[
+    {
+        "label": "whipped cream",
+        "states": [
+            "whipped", "creamy"
+        ],
+        "ingredients": [],
+        "container": "mixing bowl"
+    },
+    {
+        "label": "greek salad",
+        "states": [
+            "mixed"
+        ],
+        "ingredients": ["black olive", "cucumber", "feta cheese", "green pepper", "lemon", "olive oil", 
+                        "onion", "oregano", "salt", "sweet pepper", "tomato"],
+        "container": "mixing bowl"
+    },
+    {
+        "label": "macaroni",
+        "states": [
+            "cooked"
+        ],
+        "ingredients": [],
+        "container": "pot"
+    },
+    {
+        "label": "sweet potato",
+        "states": [
+            "chopped"
+        ],
+        "ingredients": [],
+        "container": "cutting board"
+    },
+    {
+        "label": "ice",
+        "states": [
+            "crushed", "frozen"
+        ],
+        "ingredients": [],
+        "container": "drinking glass"
+    },
+    {
+        "label": "fried rice",
+        "states": [
+            "mixed"
+        ],
+        "ingredients": ["carrot","corn","egg","green onion","green pea","sausage","soy sauce",
+                        "sugar","water","white rice"],
+        "container": "bowl"
+    },
+    {
+        "label": "macaroni and cheese",
+        "states": [],
+        "ingredients": ["vegetable oil","pasta mix","cheese sauce","water","egg white and yolk",
+                        "milk","salt","black pepper","cheese","macaroni"],
+        "container": "plate"
+    },
+    {
+        "label": "carrot salad",
+        "states": ["mixed", "ready"],
+        "ingredients": ["carrot","lemon juice","mayonnaise","pineapple","raisin","sugar","salt",
+                        "sour cream"],
+        "container": "bowl"
+    },
+    {
+        "label": "grilled cheese sandwich",
+        "states": ["toasted"],
+        "ingredients": ["black pepper","bread","cheddar","gruyere","mustard","olive oil","paprika"],
+        "container": "aluminium foil"
+    },
+    {
+        "label": "salmon",
+        "states": ["cooked"],
+        "ingredients": ["black pepper","ginger","salt","sesame oil","vegetable oil"],
+        "container": "plate"
+    },
+    {
+        "label": "cilantro-lime rice",
+        "states": [],
+        "ingredients": ["olive oil","rice","garlic","water","salt","lime zest","lime juice",
+                        "cilantro"],
+        "container": "plate"
+    },
+    {
+        "label": "shrimp mango salad",
+        "states": ["mixed"],
+        "ingredients": ["black pepper","cilantro","lemon juice","mango","olive oil",
+                        "salad greens","salt","scallion","shrimp"],
+        "container": "salad bowl"
+    },
+    {
+        "label": "vinaigrette",
+        "states": ["creamy","mixed"],
+        "ingredients": ["cilantro","lemon juice","olive oil"],
+        "container": "mixing bowl"
+    },
+    {
+        "label": "breakfast muffin",
+        "states": [],
+        "ingredients": ["egg","bacon","potato","cheddar","vegetable oil"],
+        "container": "plate"
+    },
+    {
+        "label": "french toast",
+        "states": [],
+        "ingredients": ["bread","egg mixture","egg","butter","milk","maple syrup","strawberry"],
+        "container": "plate"
+    },
+    {
+        "label": "wrap",
+        "states": ["halved"],
+        "ingredients": ["tortilla","butter","crayfish","mayonnaise","lemon","dill",
+                        "black pepper","arugula","lemon juice"],
+        "container": "plate"
+    },
+    {
+        "label": "cocktail",
+        "states": ["mixed","liquid"],
+        "ingredients": ["vodka","ice","tomato juice","worcestershire sauce","tabasco sauce",
+                        "celery salt","black pepper","lemon juice","celery"],
+        "container": "highball glass"
+    },
+    {
+        "label": "onigiri",
+        "states": ["pressed"],
+        "ingredients": ["salmon", "rice", "seaweed"],
+        "container": "cutting board"
+    },
+    {
+        "label": "coleslaw",
+        "states": ["mixed"],
+        "ingredients": ["cabbage","carrot","mayonnaise","onion","sugar","vegetable oil","vinegar"],
+        "container": "salad bowl"
+    },
+    {
+        "label": "raman",
+        "states": [],
+        "ingredients": ["soup broth","garlic","scallion","chili sauce","ginger","chicken stock",
+                        "beef stock","soy sauce","fish sauce","water","noodle","egg white and yolk"],
+        "container": "bowl"
+    },
+    {
+        "label": "chocolate chip muffin",
+        "states": ["baked"],
+        "ingredients": ["butter","milk","egg white and yolk","sour cream","vanilla extract","sugar",
+                        "flour","baking powder","cinnamon","salt","chocolate chip"],
+        "container": "muffin pan"
+    },
+    {
+        "label": "club sandwich",
+        "states": ["portioned"],
+        "ingredients": ["bacon","bread","cheese","ham","lettuce","mayonnaise","tomato","turkey"],
+        "container": "cutting board"
+    },
+    {
+        "label": "cheese pizza",
+        "states": ["baked", "sliced"],
+        "ingredients": ["flour","olive oil","salt","water","sugar","yeast","marinara","mozzarella"],
+        "container": "plate"
+    },
+    {
+        "label": "rib",
+        "states": ["ready"],
+        "ingredients": ["barbecue sauce","black pepper","salt"],
+        "container": "baking tray"
+    },
+    {
+        "label": "beef stroganoff",
+        "states": [],
+        "ingredients": ["beef","onion","cognac","beef stock","mushroom","garlic","thyme","sour cream",
+                        "mustard","thyme","pasta"],
+        "container": "plate"
+    }
+]

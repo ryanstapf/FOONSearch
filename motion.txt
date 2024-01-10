@@ -1,0 +1,129 @@
+chop	0.10
+pour	0.90
+mix	0.90
+crack	0.20
+beat	0.85
+dip	0.90
+turn on	0.30
+pick-and-place	0.80
+fry	0.10
+sprinkle	0.30
+scoop and pour	0.60
+spread	0.20
+flip	0.15
+cover	0.40
+cook	0.20
+uncover	0.40
+scoop	0.80
+measure	0.20
+pour and spread	0.20
+stir	0.80
+cook and stir	0.70
+simmer	0.30
+cut	0.15
+slice	0.15
+insert	0.70
+squeeze	0.10
+attach	0.20
+blend	0.90
+turn off	0.30
+detach	0.40
+stir and strain	0.40
+spray	0.30
+put inside	0.30
+bake	0.40
+flip and stack	0.10
+sift	0.10
+roll	0.10
+preheat	0.60
+whisk	0.70
+fold	0.15
+throw away	0.70
+fill	0.60
+grind	0.40
+grate	0.10
+pour and blend	0.70
+scrape	0.60
+dice	0.15
+pour and scrape	0.50
+unwrap	0.20
+peel	0.10
+cut open	0.10
+remove	0.65
+cut with slits	0.10
+brush	0.70
+shape	0.40
+wash	0.40
+boil	0.50
+pour and strain	0.40
+chill	0.40
+open	0.30
+close	0.30
+shake	0.90
+core	0.20
+rinse	0.60
+grind and sprinkle	0.30
+light	0.40
+heat	0.10
+drip	0.30
+rip open	0.10
+wrap	0.15
+skim	0.15
+cut off ends	0.15
+break apart	0.20
+mix and pour	0.90
+scrape and pour	0.70
+take apart	0.30
+scoop and spread	0.40
+tear and place	0.30
+add	0.85
+place	0.80
+scoop and place	0.80
+tear apart	0.10
+squeeze and scrape	0.15
+mince	0.15
+coat	0.55
+freeze	0.65
+take out	0.50
+brew	0.65
+melt	0.75
+cook and shake	0.80
+cook and spread	0.80
+knead	0.20
+tear and cover	0.30
+ferment	0.30
+press	0.30
+divide	0.30
+toast	0.60
+tear	0.20
+break	0.40
+drain	0.80
+poke	0.80
+rub	0.70
+rim	0.60
+soak	0.80
+tuck ends	0.40
+broil	0.70
+flip and place	0.10
+pour and stir	0.60
+mash	0.50
+place and spread	0.60
+combine	0.60
+make slits	0.30
+cut off skin	0.20
+pull apart	0.20
+defrost	0.70
+grind and pour	0.60
+cut in half	0.15
+cool down	0.70
+fold and pinch	0.10
+fry and flip	0.10
+pour and mix	0.90
+mix and mash	0.80
+press and cook	0.60
+shave	0.20
+sit	0.70
+cook and flip	0.60
+roll and shape	0.40
+stir and melt	0.80
+stir and fry	0.80
